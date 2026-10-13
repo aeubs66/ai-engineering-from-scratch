@@ -75,4 +75,4 @@ B = Matrix([
 # print((A - B) .data)
 # print(C.data)
 
-# print((A @ B).dat
+# print((A @ B).data)
